@@ -1,2 +1,2 @@
-# StudentSycne.java
+# StudentSync.java
 University Managenment (Semester Project)
